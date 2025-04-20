@@ -1,0 +1,5 @@
+ENV_NIX_APP_ID=cacf03be
+ENV_NIX_API_KEY=ccffe76f8964199a0b107503ffb64336
+ENV_SHEETY_ENDPOINT=https://api.sheety.co/898150604837cdad1ecc5beedda96c35/workoutsTracking/workouts
+ENV_SHEETY_USERNAME=HareKrishana
+ENV_SHEETY_PASSWORD= Hare@123
